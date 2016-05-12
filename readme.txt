@@ -68,8 +68,3 @@ To contribute to this plugin feel free to fork it on GitHub [Voguepay Pin Produc
 
 1.	You need to have a WordPress CMS site.
 2.	You need to open an account on [Voguepay](https://voguepay.com) and setup a merchant product store
-
-
-
-
-=
