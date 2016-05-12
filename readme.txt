@@ -59,7 +59,7 @@ You can also follow me on Twitter! **(http://twitter.com/ojosipeayo)**
 
 
 = Contribute =
-To contribute to this plugin feel free to fork it on GitHub [Voguepay Pin Product on GitHub](https://github.com/ojosipeayo/VoguePin-Wordpress)
+To contribute to this plugin feel free to fork it on GitHub [Voguepay Pin Product on GitHub](https://github.com/ojosipeayo/VoguePin)
 
 
 == Frequently Asked Questions ==
